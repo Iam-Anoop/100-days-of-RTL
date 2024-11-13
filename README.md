@@ -7,5 +7,11 @@
 # Day 6 | binary to bcd converter
 # Day 7 | binary to gray, gray to binary
 # Day 8 | 4 bit subtractor using full adder
-# Day 9 | 
-# Day 10| 
+# Day 9 | Full adder using decoder
+# Day 10| 8 bit Carry look ahead adder
+# Day 11| Parity generator, parity checker(even)
+# Day 12| N bit comparator
+# Day 13| 8 bit ALU
+
+
+
