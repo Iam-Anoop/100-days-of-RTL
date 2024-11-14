@@ -12,7 +12,7 @@
 # Day 11| Parity generator, parity checker(even)
 # Day 12| N bit comparator
 # Day 13| 8 bit ALU
-# Day 13| One hot encoder
+# Day 14| One hot encoder
 
 
 
