@@ -13,6 +13,7 @@
 # Day 12| N bit comparator
 # Day 13| 8 bit ALU
 # Day 14| One hot encoder
+# Day 15| 8 bit full subtractor
 
 
 
