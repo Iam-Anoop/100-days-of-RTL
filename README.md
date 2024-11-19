@@ -16,8 +16,9 @@
 # Day 15| 8 bit full subtractor
 # Day 16| Booth multiplier
 # Day 17| Logic gates using mux
-# Day 18| 
-# Day 19| 
+# Day 18| BCD to seven segment decoder
+# Day 19| Input majority circuit
+# Day 20| 
 
 
 
