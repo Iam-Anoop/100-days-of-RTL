@@ -14,6 +14,10 @@
 # Day 13| 8 bit ALU
 # Day 14| One hot encoder
 # Day 15| 8 bit full subtractor
+# Day 16| Booth multiplier
+# Day 17| Logic gates using mux
+# Day 18| 
+# Day 19| 
 
 
 
