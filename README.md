@@ -18,7 +18,7 @@
 # Day 17| Logic gates using mux
 # Day 18| BCD to seven segment decoder
 # Day 19| Input majority circuit
-# Day 20| 
+# Day 20| SR flipflop using JK,D,T flipflop
 
 
 
