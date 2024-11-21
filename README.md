@@ -19,7 +19,7 @@
 # Day 18| BCD to seven segment decoder
 # Day 19| Input majority circuit
 # Day 20| SR flipflop using JK,D,T flipflop
-# Day 20| JK flipflop using SR,D,T flipflop , D flipflop using JK,SR,T flipflop , T flipflop using SR,D,JK flipflop
+# Day 21| JK flipflop using SR,D,T flipflop , D flipflop using JK,SR,T flipflop , T flipflop using SR,D,JK flipflop
 
 
 
