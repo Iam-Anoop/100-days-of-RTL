@@ -22,7 +22,7 @@
 # Day 21| JK flipflop using SR,D,T flipflop , D flipflop using JK,SR,T flipflop , T flipflop using SR,D,JK flipflop
 # Day 22| Barrel shifter
 # Day 23| SISO
-# Day 23| SISO
+# Day 24| SIPO
 
 
 
