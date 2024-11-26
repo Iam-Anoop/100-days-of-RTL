@@ -23,6 +23,8 @@
 # Day 22| Barrel shifter
 # Day 23| SISO
 # Day 24| SIPO
+# Day 25| PISO
+# Day 26| PIPO
 
 
 
