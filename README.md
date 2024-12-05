@@ -25,6 +25,7 @@
 # Day 24| SIPO
 # Day 25| PISO
 # Day 26| PIPO
+# Day 27| Bidirectional shift register
 
 
 
