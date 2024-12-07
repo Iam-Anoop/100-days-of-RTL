@@ -27,7 +27,7 @@
 # Day 26| PIPO
 # Day 27| Bidirectional shift register
 # Day 28| Universal shift register
-# Day 29| 
+# Day 29| LFSR
 
 
 
