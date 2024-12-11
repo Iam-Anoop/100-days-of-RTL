@@ -28,6 +28,8 @@
 # Day 27| Bidirectional shift register
 # Day 28| Universal shift register
 # Day 29| LFSR
+# Day 30| 
+
 
 
 
