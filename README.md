@@ -28,8 +28,9 @@
 # Day 27| Bidirectional shift register
 # Day 28| Universal shift register
 # Day 29| LFSR
-# Day 30| 
-
+# Day 30| clock edge detector 
+# Day 31| Sequence counter 
+# Day 32| Mod N counter 
 
 
 
